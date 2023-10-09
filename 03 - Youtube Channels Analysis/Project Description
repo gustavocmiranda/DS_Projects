@@ -1,0 +1,12 @@
+This project was inspired by this dataset from Kaggle: https://www.kaggle.com/datasets/mabelhsu/api-clean-top-1000-youtubers-statistics
+
+Used it to study some basic EDA.
+
+Some of the questions answered:
+    What country has the most channels in top 1000?
+    What categories do most channels cover in the top 1000? And only in brazilian channels?
+    What are the means of visits, like and comments of these channels, per country?
+    Is there any correlation between number of subscribers and visits/likes/comments?
+
+
+Tags: Basic EDA, Geographic Map, Country Converter, Correlations
