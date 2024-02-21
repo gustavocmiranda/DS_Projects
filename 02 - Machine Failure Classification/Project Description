@@ -1,0 +1,6 @@
+This project was based on this Kaggle's competition: Walter Reade, Ashley Chow. (2023). Binary Classification of Machine Failures. Kaggle. https://kaggle.com/competitions/playground-series-s3e17
+
+The objective is to predict the prabability of Machine failure.
+
+
+Tags: EDA, Correlation heatmap (with mask), Pipeline, GridSearch, XGBoost
